@@ -27,7 +27,7 @@ main {
 
   filter: blur(10px);
   background: var(--black);
-  width: 308px;
+  width: 290px;
   height: 172px;
 }
 
@@ -36,7 +36,7 @@ main {
 }
 
 .trailer picture {
-  width: 322px;
+  width: 300px;
   height: 195px;
   object-fit: cover;
   overflow: hidden;
@@ -100,11 +100,10 @@ main {
 }
 
 .actor__name.ryan {
-  margin-top: 9vh;
-  margin-right: 14vw;
+  margin-right: 3vw;
 }
 
 .actor__name.margot {
-  margin-top: 22vh;
-  margin-right: 11vw;
+  margin-top: 11vh;
+  margin-right: 15vw;
 }
