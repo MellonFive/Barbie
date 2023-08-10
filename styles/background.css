@@ -15,8 +15,10 @@
 }
 
 .cloud {
-  display: none;
   position: absolute;
+  z-index: -2;
+  width: auto;
+  height: 11vh;
 }
 
 .car {
