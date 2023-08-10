@@ -5,6 +5,7 @@ footer {
   align-items: center;
   justify-content: center;
   column-gap: 48px;
+  gap: 70px;
 
   padding: 38px 0;
   border-top: 1px solid var(--silver);
@@ -12,4 +13,10 @@ footer {
 
 footer a {
   font-size: 18px;
+
+  transition: all 0.4s;
+}
+
+footer a:hover {
+  transform: scale(1.2);
 }
